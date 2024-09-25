@@ -13,7 +13,7 @@ export default defineNuxtConfig({
       ]
     },
   },
-  css:['~/assets/css/styles.css','~/assets/css/all.min.css','~/assets/css/fontawesome.min.css'],
+  // css:['~/public/assets/css/styles.css','~/public/assets/css/all.min.css','~/public/assets/css/fontawesome.min.css'],
   compatibilityDate: '2024-04-03',
   devtools: { enabled: true }
 })
