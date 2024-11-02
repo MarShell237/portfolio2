@@ -8,7 +8,7 @@
                 <span class="mx-1">&middot;</span>
                 <a target="_blank" href="https://github.com/MarShell237" alt="Mon Github" title="Mon Github"><span class="icons-name">GitHub</span></a>
                 <span class="mx-1">&middot;</span>
-                <a target="_blank" href="www.linkedin.com/in/marcel-j-djiofack-3b936b264" alt="Mon linkedin " title="Mon linkedin"><span class="icons-name">LinkedIn</span></a>
+                <a target="_blank" href="https://www.linkedin.com/in/marcel-j-djiofack-3b936b264/" alt="Mon linkedin " title="Mon linkedin"><span class="icons-name">LinkedIn</span></a>
             </div>
         </div>
     </div>
