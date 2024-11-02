@@ -159,9 +159,9 @@
                               atteindre ses objectifs avec beaucoup de travail et de dévouement.
                             </p>
                             <div class="d-flex justify-content-center fs-2 gap-4">
-                                <a target="_blank" href="mailto:djiofackjason57@gmail.com" class="text-gradient" title="Mon Email"><i class="fa fa-envelope"></i></a>
+                                <a target="_blank" href="mailto:marceldjiofack@outlook.com" class="text-gradient" title="Mon Email"><i class="fa fa-envelope"></i></a>
                                 <a target="_blank" href="https://github.com/MarShell237" class="text-gradient" title="Mon Github"><i class="fa-brands fa-github"></i></a>
-                                <a target="_blank" href="https://www.linkedin.com/in/jason-djiofack-3b936b264" class="text-gradient" title="Mon linkedin"><i class="fa-brands fa-linkedin"></i></a>
+                                <a target="_blank" href="www.linkedin.com/in/marcel-j-djiofack-3b936b264" class="text-gradient" title="Mon linkedin"><i class="fa-brands fa-linkedin"></i></a>
 
                             </div>
                         </div>
