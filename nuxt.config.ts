@@ -14,7 +14,7 @@ export default defineNuxtConfig({
         { property: 'og:description', content: 'Portfolio de Marcel J. DJIOFACK' },
         { property: 'og:image', content: '/assets/images/logo.png' },
         { property: 'og:type', content: 'website' },
-        { property: 'og:url', content: 'https://portfolio-nine-jet-89.vercel.app/' },
+        { property: 'og:url', content: 'https://portfolio-marshells-projects.vercel.app/' },
       ],
       script: [
         { src: 'https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js' }
