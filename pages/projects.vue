@@ -36,7 +36,7 @@
                                         <h2 class="fw-bolder">Ngaan le calendrier yemba</h2>
                                         <p>
                                           Ngaan le calendrier yemba est une application mobile qui permet aux utilisateurs de visualiser les jours de marchees de la ville de Dschang.
-                                          <a href="https://github.com/Capital-M-Industries/ngaan/releases/download/new/app-universal-release.apk">telecharger</a>
+                                          <a href="https://github.com/MarShell237/ngaan/releases/download/v1/ngaan.apk">telecharger</a>
                                         </p>
                                     </div>
                                     <img class="img-fluid" src="./../public/assets/images/ngaan.png" alt="..." />
